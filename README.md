@@ -1,4 +1,4 @@
-# gemma4-portable-for-Windows11
+# Kinako Project Gemma4
 # Gemma 4 Portable Chat (Windows 11 Verification Pilot)
 
 A standalone, portable Gemma 4 chat application designed to run smoothly on standard desktop/desktop CPUs without complex setups.
